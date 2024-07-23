@@ -4,7 +4,7 @@ const Hero = () => {
     <header className="w-full flex justify-center items-center flex-col">
       <nav className="flex justify-between w-full items-center mb-10 pt-3">
         <img src={logo} alt="sumz_logo" className="w-28 object-contain" />
-        <button className="black_btn" onClick={() => window.open("")}>
+        <button className="black_btn" onClick={() => window.open("https://github.com/sheikhmuhammadzain/Ai_article_Summarizer_react")}>
           Github Repo
         </button>
       </nav>
